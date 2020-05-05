@@ -5,5 +5,4 @@ class Teacher < User
   def teach
     KNOWLEDGE.string
   end
-
 end
